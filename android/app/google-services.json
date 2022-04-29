@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "367673951482",
+    "project_id": "turkticaretcase",
+    "storage_bucket": "turkticaretcase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367673951482:android:36c5b353b1425d7382b543",
+        "android_client_info": {
+          "package_name": "com.example.turkticaretcase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367673951482-b28lcckovd8qpp23t9q65dfojvpfe46f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.turkticaretcase",
+            "certificate_hash": "4a9a6c0809bc8def044e8de2cc1003d012980e06"
+          }
+        },
+        {
+          "client_id": "367673951482-jue436t18ob6nv7eht19bp7eobguuesi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxiq9sgSrX4xVPmMlm7PP9TQ2upsAKpsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367673951482-jue436t18ob6nv7eht19bp7eobguuesi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
