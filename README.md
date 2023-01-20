@@ -1,16 +1,6 @@
-# turkticaretcase
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1674217200](https://user-images.githubusercontent.com/65566449/213725330-83fbe9b6-cec5-47dc-b7e1-b7833037c60c.png)
+![Screenshot_1674217201](https://user-images.githubusercontent.com/65566449/213725336-3962f1d3-a7ee-420c-8acc-f654a3128fa7.png)
+![Screenshot_1674217208](https://user-images.githubusercontent.com/65566449/213725343-dfa0afd4-cac5-4d96-a359-9f1ceb0b156f.png)
+![Screenshot_1674217255](https://user-images.githubusercontent.com/65566449/213725345-7d47b91c-9570-4a65-889b-75f87eb5930b.png)
+![Screenshot_1674217258](https://user-images.githubusercontent.com/65566449/213725346-79bfccea-555e-4362-bb43-ea32a636ddcc.png)
